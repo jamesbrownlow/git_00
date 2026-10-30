@@ -14,7 +14,12 @@ Our project will be done using several commits to the master branch.
 you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
 
 ## First Verse 
-<!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+<!--Put the first five lines of a poem by Lewis Carroll in this section!-->
+
+The sun was shining  
+On the sea  
+blah blah  
+In the middle of the
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
